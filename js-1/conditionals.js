@@ -22,3 +22,5 @@ function calcularColor(num) {
   console.log(calcularColor(3)) // "El color es azul"
   console.log(calcularColor(8)) // "El color es verde"
   console.log(calcularColor(8)) // "El color es verde"
+
+  //Success
