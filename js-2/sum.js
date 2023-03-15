@@ -14,4 +14,5 @@ function sum(arrayOfNumbers){
  console.log(sum([1, 2, 3])) // 6
  console.log(sum([10, 8, 12, 5])) // 35
  console.log(sum([])) // 0
+ //Working 14/03/2023 10:46PM
 
